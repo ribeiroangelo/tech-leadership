@@ -1,1 +1,1 @@
-# tech-leadership.github.io
+# tech-leadership
