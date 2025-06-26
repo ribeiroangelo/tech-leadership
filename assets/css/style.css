@@ -482,9 +482,19 @@ color: white;
 .profile-section {
     flex-direction: column;
     text-align: center;
+    align-items: center;
+}
+
+.profile-image {
+    align-self: center;
+    margin: 0 auto;
 }
 
 .header-content {
+    text-align: center;
+}
+
+.service-content {
     text-align: center;
 }
 
